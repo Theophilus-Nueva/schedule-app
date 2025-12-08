@@ -1,7 +1,7 @@
 import React from 'react';
 import './Layout.css';
 
-import LPU_logo from '../../Assets/LPU_logo.png'
+import LPU_logo from '../../assets/LPU_logo.png'
 
 export default function Header({title, theme}) {
   return (
